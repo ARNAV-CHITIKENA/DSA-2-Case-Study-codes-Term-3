@@ -1,5 +1,5 @@
 import java.util.*;
-
+// C03 - Prim's MST and Bridge Detection
 public class PrimsMSTBridgeDetection {
 
     static class Edge {

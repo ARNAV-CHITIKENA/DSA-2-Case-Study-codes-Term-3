@@ -1,5 +1,5 @@
 class RankNode {
-
+// C01
     int key;
     int size;
     RankNode left, right;
